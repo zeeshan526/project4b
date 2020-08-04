@@ -144,7 +144,7 @@ export default function () {
         </Paper>
       </Grid>
 
-      <Grid item xs={12} sm={4} className={sample.zoom} className={sample.grid1}>
+      <Grid item xs={12} sm={4} className={sample.zoom} >
         <Paper className={classes.paper}>
 
 
