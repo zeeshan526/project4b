@@ -92,7 +92,7 @@ export default function () {
         </Grid>
   
 
-<h1></h1>
+
 
 <br/>
 <br/>
